@@ -6,7 +6,7 @@
 
 
 ## Como abrir
-Inicie o Godot 4.4 e Import o arquivo project.godot present na pasta crimsontearz
+Inicie o Godot 4.4 e Import o arquivo project.godot
 
 
 ## Comandos
