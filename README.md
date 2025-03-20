@@ -2,8 +2,8 @@
 
 
 # Requisitos
-É necessário instalar o [Godot 4.4](https://godotengine.org)
-
+É necessário instalar o 
+<a href="https://godotengine.org" target="_blank" rel="noopener noreferrer">Godot 4.4</a>
 ## Como abrir
 Inicie o Godot 4.4 e Import o arquivo project.godot present na pasta crimsontearz
 
